@@ -670,6 +670,7 @@ section{
 }
 
 .project.coming-soon::after {
+    content:'coming soon';
     position: absolute;
     inset: 0;
     background: rgba(31, 37, 46, 0.85);
