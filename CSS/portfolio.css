@@ -666,6 +666,7 @@ section{
 }
 .project.coming-soon {
     position: relative;
+    pointer-event:none;
 }
 
 .project.coming-soon::after {
