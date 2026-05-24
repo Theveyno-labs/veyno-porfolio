@@ -666,11 +666,9 @@ section{
 }
 .project.coming-soon {
     position: relative;
-    pointer-events: none;
 }
 
 .project.coming-soon::after {
-    content: 'Coming Soon';
     position: absolute;
     inset: 0;
     background: rgba(31, 37, 46, 0.85);
